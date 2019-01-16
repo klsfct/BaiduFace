@@ -19,5 +19,5 @@
 <img src="/images/图片7.png" width = "300" height = "500" alt="图片名称" align=center />  
 <img src="/images/图片9.png" width = "300" height = "500" alt="图片名称" align=center />  
 <img src="/images/图片10.png" width = "300" height = "500" alt="图片名称" align=center />   
-![](/images/图片1.png)
+![](/images/图片1.png)  
 ![](/images/图片8.png)
